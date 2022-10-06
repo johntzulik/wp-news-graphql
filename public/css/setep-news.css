@@ -1,0 +1,16 @@
+.setepnews{
+  font-family: 'Montserrat',Helvetica,Arial,Lucida,sans-serif;
+  padding: 0px !important;
+}
+
+.card {
+  border: none;
+}
+.card-body a{
+  color:#FF8D06;
+  font-weight: 700;
+}
+.card-title{
+  font-size: 17px;
+  font-weight: 700;
+}
